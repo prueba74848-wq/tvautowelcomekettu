@@ -1,0 +1,15 @@
+{
+    "name": "AutoWelcomeStickers",
+    "description": "Replies to new member join messages with one of six chosen stickers (Cheerful Choco, Robo Nelly, Clyde Bot, Doggo Replies, Wumpus Beyond, Sassy Peach).",
+    "authors": [
+        {
+            "name": "you",
+            "id": "0"
+        }
+    ],
+    "main": "index.js",
+    "vendetta": {
+        "icon": "ic_message_edit"
+    },
+    "hash": "875df9d72cb9727492bdfadd9845fcf33fdedd9f1a3a9d2bdc5d49ebda7b514c"
+}
